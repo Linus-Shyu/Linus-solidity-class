@@ -6,11 +6,19 @@ If you want to learn solidity you can watch [Linus channel](https://www.youtube.
 
 # Update code
 
-[Hello World](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/HelloWorld.sol)
+[Hello World code](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/HelloWorld.sol)
 
 [Watch Hello World Video on youtube](https://www.youtube.com/watch?v=1uRYQyDihDI&t=56s)
 
 [Watch Hello World Video on Bilibili](https://www.bilibili.com/video/BV1Dz4y1h7qH/?spm_id_from=333.999.0.0)
+
+=====================================================================================
+
+[First Application code](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/Firstapp.sol)
+
+[Watch First Application Video on youtube](https://www.youtube.com/watch?v=7OS4hgOin4I)
+
+[Watch First Application Video on Bilibili](https://www.bilibili.com/video/BV17a4y137Bx/)
 
 =====================================================================================
 
