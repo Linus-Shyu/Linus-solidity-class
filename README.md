@@ -12,4 +12,5 @@ If you want to learn solidity you can watch [Linus channel](https://www.youtube.
 
 [Watch Hello World Video on Bilibili](https://www.bilibili.com/video/BV1Dz4y1h7qH/?spm_id_from=333.999.0.0)
 
-================================================================================================================
+=====================================================================================
+
