@@ -26,3 +26,6 @@ If you want to learn solidity you can watch [Linus channel](https://www.youtube.
 
 [Watch Primitive Data Types Video on youtube](https://www.youtube.com/watch?v=5tUxdY4uxgY)
 
+[Watch Primitive Data Types Video on Bilibili](https://www.bilibili.com/video/BV1rg4y1F7GY/?spm_id_from=333.999.0.0&vd_source=b948e0481ae56728c763719a74f42095)
+
+=====================================================================================
