@@ -22,3 +22,7 @@ If you want to learn solidity you can watch [Linus channel](https://www.youtube.
 
 =====================================================================================
 
+[Primitive Data Types code](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/Data.sol)
+
+[Watch Primitive Data Types Video on youtube](https://www.youtube.com/watch?v=5tUxdY4uxgY)
+
