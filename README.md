@@ -4,6 +4,20 @@ Welcome!
 This is a code repository about solidity.
 If you want to learn solidity you can watch [Linus channel](https://www.youtube.com/channel/UC4KtR-YsWDfWtikRGOZb58Q).If you live in china you can watch his video on [Bilibili](https://space.bilibili.com/411591950?spm_id_from=333.1007.0.0).Don’t forget subscribe and click the like button.
 
+# Community
+
+![discord-ebf2e8ca](https://github.com/Linus-Shyu/Linus-solidity-class/assets/83543818/d7ca02bc-e6cf-4f2c-a175-df0be66397e2)
+
+[LinusShyu Community](https://discord.com/channels/1110525621802639380/1110525621802639383)
+
+![download-1](https://github.com/Linus-Shyu/Linus-solidity-class/assets/83543818/7418b065-af20-4431-b8ef-7927cbaddb83)
+
+[LinusShyu Youtube](https://www.youtube.com/channel/UC4KtR-YsWDfWtikRGOZb58Q)
+
+![download](https://github.com/Linus-Shyu/Linus-solidity-class/assets/83543818/9c975540-dba7-4be2-8ee4-ce228d8aa69d)
+
+[LinusShyu Bilibili](https://space.bilibili.com/411591950?spm_id_from=333.1007.0.0)
+
 # Grateful
 Solidity by Example & Smart Contract Engineer
 
