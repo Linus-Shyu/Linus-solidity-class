@@ -7,7 +7,7 @@ If you want to learn solidity you can watch [Linus channel](https://www.youtube.
 # Community
 
 <p align="center">
-  <a target="_blank" href="https://github.com/appwrite/appwrite">
+  <a target="_blank" href="https://github.com/Linus-Shyu/Linus-solidity-class/assets/83543818/d7ca02bc-e6cf-4f2c-a175-df0be66397e2">
   <img alt="special sponsor appwrite" src="https://sponsors.vuejs.org/images/appwrite.svg" width="300">
   </a>
 </p>
