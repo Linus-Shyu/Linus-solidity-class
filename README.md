@@ -8,10 +8,7 @@ If you want to learn solidity you can watch [Linus channel](https://www.youtube.
 
 [![LinusShyu Community](https://img.shields.io/badge/Discord-LinusShyu%20Community-blue)](https://discord.com/channels/1110525621802639380/1110525621802639383)
 [![LinusShyu Youtube](https://img.shields.io/badge/Youtube-LinusShyu%20YouTube-red)](https://www.youtube.com/channel/UC4KtR-YsWDfWtikRGOZb58Q)
-
-![download](https://github.com/Linus-Shyu/Linus-solidity-class/assets/83543818/9c975540-dba7-4be2-8ee4-ce228d8aa69d)
-
-[LinusShyu Bilibili](https://space.bilibili.com/411591950?spm_id_from=333.1007.0.0)
+[![LinusShyu Bilibili](https://img.shields.io/badge/Bilibili-LinusShyu%20Bilibili-blue)](https://space.bilibili.com/411591950?spm_id_from=333.1007.0.0)
 
 # Grateful
 Solidity by Example & Smart Contract Engineer
