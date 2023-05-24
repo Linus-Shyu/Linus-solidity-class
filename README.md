@@ -5,6 +5,7 @@ This is a code repository about solidity.
 If you want to learn solidity you can watch [Linus channel](https://www.youtube.com/channel/UC4KtR-YsWDfWtikRGOZb58Q).If you live in china you can watch his video on [Bilibili](https://space.bilibili.com/411591950?spm_id_from=333.1007.0.0).Don’t forget subscribe and click the like button.
 
 # Grateful
+Solidity by Example & Smart Contract Engineer
 
 ![Solidity by Example](https://github.com/Linus-Shyu/Linus-solidity-class/assets/83543818/c68039c7-bd95-41ee-beba-55b20273a734)
 
