@@ -11,9 +11,9 @@ If you want to learn solidity you can watch [Linus channel](https://www.youtube.
 [![LinusShyu Bilibili](https://img.shields.io/badge/Bilibili-LinusShyu%20Bilibili-blue)](https://space.bilibili.com/411591950?spm_id_from=333.1007.0.0)
 
 # Grateful
-Solidity by Example & Smart Contract Engineer
+Solidity by Example
 
-![Solidity by Example](https://github.com/Linus-Shyu/Linus-solidity-class/assets/83543818/c68039c7-bd95-41ee-beba-55b20273a734)
+[![Solidity by Example & Smart Contract Engineer](https://github.com/Linus-Shyu/Linus-solidity-class/assets/83543818/c68039c7-bd95-41ee-beba-55b20273a734)](https://solidity-by-example.org/)
 
 # Update code
 
