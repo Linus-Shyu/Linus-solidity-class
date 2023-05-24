@@ -13,7 +13,7 @@ If you want to learn solidity you can watch [Linus channel](https://www.youtube.
 # Grateful
 Solidity by Example
 
-[![Solidity by Example & Smart Contract Engineer](https://github.com/Linus-Shyu/Linus-solidity-class/assets/83543818/c68039c7-bd95-41ee-beba-55b20273a734)](https://solidity-by-example.org/)
+[![Solidity by Example & Smart Contract Engineer](https://img.shields.io/badge/-Solidity%20by%20Example-brightgreen)](https://solidity-by-example.org/)
 
 # Update code
 
