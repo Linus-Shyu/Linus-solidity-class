@@ -6,6 +6,8 @@ If you want to learn solidity you can watch [Linus channel](https://www.youtube.
 
 # Community
 
+[![discord-ebf2e8ca](https://github.com/Linus-Shyu/Linus-solidity-class/assets/83543818/d7ca02bc-e6cf-4f2c-a175-df0be66397e2 "LinusShyu Community")](https://discord.com/channels/1110525621802639380/1110525621802639383)
+
 ![discord-ebf2e8ca](https://github.com/Linus-Shyu/Linus-solidity-class/assets/83543818/d7ca02bc-e6cf-4f2c-a175-df0be66397e2)
 
 [LinusShyu Community](https://discord.com/channels/1110525621802639380/1110525621802639383)
