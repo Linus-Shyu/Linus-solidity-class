@@ -7,13 +7,7 @@ If you want to learn solidity you can watch [Linus channel](https://www.youtube.
 # Community
 
 [![LinusShyu Community](https://img.shields.io/badge/Discord-LinusShyu%20Community-blue)](https://discord.com/channels/1110525621802639380/1110525621802639383)
-![download](https://github.com/Linus-Shyu/Linus-solidity-class/assets/83543818/d7ca02bc-e6cf-4f2c-a175-df0be66397e2)
-
-[LinusShyu Community](https://discord.com/channels/1110525621802639380/1110525621802639383)
-
-![download-1](https://github.com/Linus-Shyu/Linus-solidity-class/assets/83543818/7418b065-af20-4431-b8ef-7927cbaddb83)
-
-[LinusShyu Youtube](https://www.youtube.com/channel/UC4KtR-YsWDfWtikRGOZb58Q)
+[![LinusShyu Youtube](https://img.shields.io/badge/Youtube-LinusShyu%20YouTube-red)](https://www.youtube.com/channel/UC4KtR-YsWDfWtikRGOZb58Q)
 
 ![download](https://github.com/Linus-Shyu/Linus-solidity-class/assets/83543818/9c975540-dba7-4be2-8ee4-ce228d8aa69d)
 
