@@ -45,8 +45,18 @@ Solidity by Example
 
 [Variables code](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/Variables.sol)
 
-[Variables Video on youtube](https://www.youtube.com/watch?v=z6BCwR3sHnI)
+[Watch Variables Video on youtube](https://www.youtube.com/watch?v=z6BCwR3sHnI)
 
-[Variables Video on Bilibili](https://www.bilibili.com/video/BV1ik4y1x7io/?spm_id_from=333.999.0.0&vd_source=b948e0481ae56728c763719a74f42095)
+[Watch Variables Video on Bilibili](https://www.bilibili.com/video/BV1ik4y1x7io/?spm_id_from=333.999.0.0&vd_source=b948e0481ae56728c763719a74f42095)
 
 =====================================================================================
+
+[Constants code](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/Constants.sol)
+
+[Watch Constants Video on youtube](https://www.youtube.com/watch?v=y-5JVJEfq40)
+
+[Watch Constants Video on Bilibili](https://www.bilibili.com/video/BV1vN411C7EN/?spm_id_from=333.999.0.0&vd_source=b948e0481ae56728c763719a74f42095)
+
+=====================================================================================
+
+
