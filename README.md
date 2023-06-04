@@ -59,4 +59,11 @@ Solidity by Example
 
 =====================================================================================
 
+[Inmutable code](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/Inmutable.sol)
+
+[Watch Inmutable Video on youtube](https://www.youtube.com/watch?v=8QqyCFPX9h4)
+
+[Watch Inmutable Video on Bilibili](https://www.bilibili.com/video/BV1am4y1i7Hj/?spm_id_from=333.999.0.0&vd_source=b948e0481ae56728c763719a74f42095)
+
+=====================================================================================
 
