@@ -67,3 +67,11 @@ Solidity by Example
 
 =====================================================================================
 
+[Reading and Writing to a State Variable code](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/Reading and Writing to a State Variable.sol)
+
+[Reading and Writing to a State Variable on youtube](https://www.youtube.com/watch?v=5KoiPg5otg4)
+
+[Reading and Writing to a State Variable Video on Bilibili](https://www.bilibili.com/video/BV1Yo4y1T7gf/?vd_source=b948e0481ae56728c763719a74f42095)
+
+=====================================================================================
+
