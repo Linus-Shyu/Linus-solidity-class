@@ -69,9 +69,17 @@ Solidity by Example
 
 [Reading and Writing to a State Variable code](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/Reading%20and%20Writing%20to%20a%20State%20Variable.sol)
 
-[Reading and Writing to a State Variable on youtube](https://www.youtube.com/watch?v=5KoiPg5otg4)
+[Reading and Writing to a State Variable Video on youtube](https://www.youtube.com/watch?v=5KoiPg5otg4)
 
 [Reading and Writing to a State Variable Video on Bilibili](https://www.bilibili.com/video/BV1Yo4y1T7gf/?vd_source=b948e0481ae56728c763719a74f42095)
+
+=====================================================================================
+
+[Ether and Wei code](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/Ether%20and%20Wei.sol)
+
+[Ether and Wei on Video youtube](https://youtu.be/t1UKE8om0Bk)
+
+[Ether and Wei Video on Bilibili](https://www.bilibili.com/video/BV11z4y1v7Uy/?spm_id_from=333.999.0.0)
 
 =====================================================================================
 
