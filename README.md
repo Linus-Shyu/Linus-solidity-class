@@ -77,7 +77,7 @@ Solidity by Example
 
 [Ether and Wei code](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/Ether%20and%20Wei.sol)
 
-[Ether and Wei on Video youtube](https://youtu.be/t1UKE8om0Bk)
+[Ether and Wei Video on youtube](https://youtu.be/t1UKE8om0Bk)
 
 [Ether and Wei Video on Bilibili](https://www.bilibili.com/video/BV11z4y1v7Uy/?spm_id_from=333.999.0.0)
 
