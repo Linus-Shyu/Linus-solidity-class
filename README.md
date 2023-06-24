@@ -83,3 +83,11 @@ Solidity by Example
 
 =====================================================================================
 
+[Gas code](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/Gas.sol)
+
+[Gas Video on youtube](https://www.youtube.com/watch?v=VMXzk3YKGiw&t=108s)
+
+[Gas Video on Bilibili](https://www.bilibili.com/video/BV1HF411d75G/?spm_id_from=333.999.0.0&vd_source=b948e0481ae56728c763719a74f42095)
+
+=====================================================================================
+
