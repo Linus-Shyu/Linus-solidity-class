@@ -91,3 +91,11 @@ Solidity by Example
 
 =====================================================================================
 
+[Ifelse code](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/IfElse.sol)
+
+[Gas Video on youtube](https://www.youtube.com/watch?v=8aVtUpJi4CQ)
+
+[Gas Video on Bilibili]()
+
+=====================================================================================
+
