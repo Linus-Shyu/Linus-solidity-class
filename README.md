@@ -23,7 +23,7 @@ Solidity by Example
 
 [Watch Hello World Video on Bilibili](https://www.bilibili.com/video/BV1Dz4y1h7qH/?spm_id_from=333.999.0.0)
 
-=====================================================================================
+-------------------------------------------------------------------------------------
 
 [First Application code](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/Firstapp.sol)
 
@@ -31,7 +31,7 @@ Solidity by Example
 
 [Watch First Application Video on Bilibili](https://www.bilibili.com/video/BV17a4y137Bx/)
 
-=====================================================================================
+-------------------------------------------------------------------------------------
 
 [Primitive Data Types code](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/Data.sol)
 
@@ -39,7 +39,7 @@ Solidity by Example
 
 [Watch Primitive Data Types Video on Bilibili](https://www.bilibili.com/video/BV1rg4y1F7GY/?spm_id_from=333.999.0.0&vd_source=b948e0481ae56728c763719a74f42095)
 
-=====================================================================================
+-------------------------------------------------------------------------------------
 
 ⚠️：The code cannot be run, only for reference
 
@@ -49,7 +49,7 @@ Solidity by Example
 
 [Watch Variables Video on Bilibili](https://www.bilibili.com/video/BV1ik4y1x7io/?spm_id_from=333.999.0.0&vd_source=b948e0481ae56728c763719a74f42095)
 
-=====================================================================================
+-------------------------------------------------------------------------------------
 
 [Constants code](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/Constants.sol)
 
@@ -57,7 +57,7 @@ Solidity by Example
 
 [Watch Constants Video on Bilibili](https://www.bilibili.com/video/BV1vN411C7EN/?spm_id_from=333.999.0.0&vd_source=b948e0481ae56728c763719a74f42095)
 
-=====================================================================================
+-------------------------------------------------------------------------------------
 
 [Inmutable code](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/Inmutable.sol)
 
@@ -65,7 +65,7 @@ Solidity by Example
 
 [Watch Inmutable Video on Bilibili](https://www.bilibili.com/video/BV1am4y1i7Hj/?spm_id_from=333.999.0.0&vd_source=b948e0481ae56728c763719a74f42095)
 
-=====================================================================================
+-------------------------------------------------------------------------------------
 
 [Reading and Writing to a State Variable code](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/Reading-and-Writing-to-a-State-Variable.sol)
 
@@ -73,7 +73,7 @@ Solidity by Example
 
 [Reading and Writing to a State Variable Video on Bilibili](https://www.bilibili.com/video/BV1Yo4y1T7gf/?vd_source=b948e0481ae56728c763719a74f42095)
 
-=====================================================================================
+-------------------------------------------------------------------------------------
 
 [Ether and Wei code](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/Ether-and-Wei.sol)
 
@@ -81,7 +81,7 @@ Solidity by Example
 
 [Ether and Wei Video on Bilibili](https://www.bilibili.com/video/BV11z4y1v7Uy/?spm_id_from=333.999.0.0)
 
-=====================================================================================
+-------------------------------------------------------------------------------------
 
 [Gas code](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/Gas.sol)
 
@@ -89,7 +89,7 @@ Solidity by Example
 
 [Gas Video on Bilibili](https://www.bilibili.com/video/BV1HF411d75G/?spm_id_from=333.999.0.0&vd_source=b948e0481ae56728c763719a74f42095)
 
-=====================================================================================
+-------------------------------------------------------------------------------------
 
 [Ifelse code](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/IfElse.sol)
 
