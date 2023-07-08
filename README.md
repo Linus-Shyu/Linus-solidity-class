@@ -95,7 +95,7 @@ Solidity by Example
 
 [Gas Video on youtube](https://www.youtube.com/watch?v=8aVtUpJi4CQ)
 
-[Gas Video on Bilibili]()
+[Gas Video on Bilibili](https://www.bilibili.com/video/BV1xz4y1E7wP/?spm_id_from=333.999.0.0)
 
 =====================================================================================
 
