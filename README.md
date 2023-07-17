@@ -99,3 +99,13 @@ Solidity by Example
 
 -------------------------------------------------------------------------------------
 
+[Loop code](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/loop.sol)
+
+[Loop Video on youtube](https://youtu.be/ZJuZhcg1M4k)
+
+[Loop Video on Bilibili](https://www.bilibili.com/video/BV1f8411U7w9/?spm_id_from=333.999.0.0&vd_source=b948e0481ae56728c763719a74f42095)
+
+-------------------------------------------------------------------------------------
+
+
+
