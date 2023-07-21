@@ -107,5 +107,14 @@ Solidity by Example
 
 -------------------------------------------------------------------------------------
 
+[Mapping code](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/Mapping.sol)
+
+[Mapping Video on youtube](https://www.youtube.com/watch?v=oh7g5Y8x0gA&t=205s)
+
+[Mapping Video on Bilibili](https://www.bilibili.com/video/BV1Ju411V7eJ/?spm_id_from=333.999.0.0)
+
+-------------------------------------------------------------------------------------
+
+
 
 
