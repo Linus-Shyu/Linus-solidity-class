@@ -115,6 +115,16 @@ Solidity by Example
 
 -------------------------------------------------------------------------------------
 
+[Array code](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/Array.sol)
+
+[Array Video on youtube](https://youtu.be/UirikZrE6UY)
+
+[Array Video on Bilibili](https://www.bilibili.com/video/BV1dm4y1L7zU/?vd_source=b948e0481ae56728c763719a74f42095)
+
+-------------------------------------------------------------------------------------
+
+
+
 
 
 
