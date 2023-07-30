@@ -123,6 +123,14 @@ Solidity by Example
 
 -------------------------------------------------------------------------------------
 
+[Enums code](https://github.com/Linus-Shyu/Linus-solidity-class/blob/master/Enums.sol)
+
+[Enums Video on youtube](https://youtu.be/Tu743347M_k)
+
+[Enums Video on Bilibili]()
+
+-------------------------------------------------------------------------------------
+
 
 
 
