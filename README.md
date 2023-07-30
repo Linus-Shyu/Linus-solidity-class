@@ -127,7 +127,7 @@ Solidity by Example
 
 [Enums Video on youtube](https://youtu.be/Tu743347M_k)
 
-[Enums Video on Bilibili]()
+[Enums Video on Bilibili](https://www.bilibili.com/video/BV1VP41167zp/?spm_id_from=333.999.0.0&vd_source=b948e0481ae56728c763719a74f42095)
 
 -------------------------------------------------------------------------------------
 
